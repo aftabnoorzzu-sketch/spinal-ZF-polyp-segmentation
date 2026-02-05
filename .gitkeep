@@ -1,0 +1,13 @@
+# Placeholder file to keep the checkpoints directory in git
+# 
+# INSTRUCTIONS:
+# Place your trained model checkpoint (.pth or .pt file) in this directory.
+# The checkpoint should contain the model state dict.
+#
+# Example checkpoint formats supported:
+# - {'model_state_dict': {...}, 'epoch': X, 'loss': Y}
+# - {'state_dict': {...}}
+# - Raw state_dict: {...}
+#
+# Note: Large checkpoint files should be managed with Git LFS or uploaded
+# manually to your deployment platform.
