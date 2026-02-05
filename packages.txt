@@ -1,12 +1,2 @@
-# System dependencies for Streamlit Cloud
-# These packages are installed via apt-get
-
-# For OpenCV support
 libgl1
-
-# For image processing
 libglib2.0-0
-
-# Optional: For better font rendering
-# libfontconfig1
-# libxrender1
