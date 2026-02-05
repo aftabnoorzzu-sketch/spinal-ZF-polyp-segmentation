@@ -48,7 +48,7 @@ st.set_page_config(
 sys.path.insert(0, str(Path(__file__).parent))
 
 # Import project modules
-from models.spinal_zf_model import create_model
+from spinal_zf_model import create_model
 from utils.preprocessing import preprocess_image, postprocess_mask, compute_mask_statistics
 from utils.visualization import (
     create_overlay, 
